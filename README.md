@@ -11,5 +11,5 @@ While I arrived to these ideas by myself, I do not claim originality of these id
 
 # Proposals
 
-1. [Each browsers should create Certificate Authorities for the sole purpose of signing certificates for "real" Certificate Authorities](./Compatibility CA.md)
+1. [Each browsers should create Certificate Authorities for the sole purpose of signing certificates for "real" Certificate Authorities](./Compatibility.md)
 2. [Multi-path TLS certificate chains](./Multipath.md)
